@@ -1,0 +1,7 @@
+{
+  "title": "ELI5",
+  "description": "Explain Like I'm 5",
+  "honkit": ">= 3.0.0",
+  "plugins": [],
+  "pluginsConfig": {}
+}
